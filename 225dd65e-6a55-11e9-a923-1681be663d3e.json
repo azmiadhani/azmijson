@@ -1,12 +1,85 @@
 [
-  {"soal": "Soal 1","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 2","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 3","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 4","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 5","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 6","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 7","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 8","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 9","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]},
-  {"soal": "Soal 10","pilihan": ["Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"]}
+  {
+    "soal": "Soal 1",
+    "id_soal": "1",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 2",
+    "id_soal": "2",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 3",
+    "id_soal": "3",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 4",
+    "id_soal": "4",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 5",
+    "id_soal": "5",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 6",
+    "id_soal": "6",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 7",
+    "id_soal": "7",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 8",
+    "id_soal": "8",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 9",
+    "id_soal": "9",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  },
+  {
+    "soal": "Soal 10",
+    "id_soal": "10",
+    "pilihan": 
+    [
+      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+    ]
+  }
+
+
+  
 ]
