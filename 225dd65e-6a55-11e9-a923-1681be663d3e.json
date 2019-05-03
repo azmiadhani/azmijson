@@ -1,85 +1,24 @@
 [
   {
+    "id_soal":1,
     "soal": "Soal 1",
-    "id_soal": "1",
     "pilihan": 
     [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+      {"id_jawaban":1,"text":"Jawaban 1"},
+      {"id_jawaban":2,"text":"Jawaban 2"},
+      {"id_jawaban":3,"text":"Jawaban 3"},
+      {"id_jawaban":4,"text":"Jawaban 4"}
     ]
   },
   {
+    "id_soal":2,
     "soal": "Soal 2",
-    "id_soal": "2",
     "pilihan": 
     [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 3",
-    "id_soal": "3",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 4",
-    "id_soal": "4",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 5",
-    "id_soal": "5",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 6",
-    "id_soal": "6",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 7",
-    "id_soal": "7",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 8",
-    "id_soal": "8",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 9",
-    "id_soal": "9",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
-    ]
-  },
-  {
-    "soal": "Soal 10",
-    "id_soal": "10",
-    "pilihan": 
-    [
-      "Jawaban 1","Jawaban 2","Jawaban 3","Jawaban 4","Jawaban 5"
+      {"id_jawaban":5,"text":"Jawaban 5"},
+      {"id_jawaban":6,"text":"Jawaban 6"},
+      {"id_jawaban":6,"text":"Jawaban 6"},
+      {"id_jawaban":7,"text":"Jawaban 7"}
     ]
   }
-
-
-  
 ]
